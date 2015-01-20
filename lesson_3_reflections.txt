@@ -13,7 +13,12 @@ repository, I would want to pull the changes.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+You make a branch off the master branch when you want to try out a new feature or fix a bug.
+You clone or make a copy of a repository to work on your own extensions of a project locally.
+A clone can happen totally locally or from github to a local computer. A fork happens when you
+want to clone someone else's work and you do not have permission to modify/extend it. So you clone
+their repository into your own github account. This happens from a github account to another github
+account.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
