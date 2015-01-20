@@ -37,4 +37,5 @@ of project separate through branches/clones and forks. This allows people to mak
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Changes that new features or experimental features may be good candidates for separate branches. Changing the master
+is easier but then everyone will see these changes and have to merge with them.
