@@ -19,3 +19,8 @@ are in your branch.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of merging two branches is to incorporate the features of both branches into one. The resulting merge is 
 now the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro: If there are several lines of code and several files, Git's automatic merging saves alot of time.
+Con: Merging changes may not be straightforward and doing it manually when there are conflicts will ensure the intended
+functionality.
