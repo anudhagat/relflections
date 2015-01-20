@@ -11,3 +11,8 @@ You can do a git diff --staged to see the difference between what is in the stag
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 It is helpful to have a separate branch when you want to add an experimental feature or you want to use a new language for
 your project.
+
+How do the diagrams help you visualize the branch structure?
+A diagram shows you the sequence of changes and where the split in the branches happened. This will help you to know what features
+are in your branch.
+
