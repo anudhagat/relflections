@@ -16,3 +16,6 @@ How do the diagrams help you visualize the branch structure?
 A diagram shows you the sequence of changes and where the split in the branches happened. This will help you to know what features
 are in your branch.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is to incorporate the features of both branches into one. The resulting merge is 
+now the master branch.
