@@ -23,7 +23,8 @@ account.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+By having a local copy of the last known commit, you can do a diff to see how your changes can merge with
+the existing changes in the repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
