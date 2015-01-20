@@ -29,7 +29,10 @@ the existing changes in the repository.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Without git and github, you would have to maintain several versions of a project. Also, you would have to
+mail these versions back and forth, do manual diffs and merges. This would be very time consuming and take
+up alot more spacde. Collaborating with others using Git and GitHub makes easier, by making different versions
+of project separate through branches/clones and forks. This allows people to make smooth progress while collaborating.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
