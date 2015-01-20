@@ -7,7 +7,8 @@ a project.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+When you or someone else had added new files or changes to existing files in the remote
+repository, I would want to pull the changes.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
