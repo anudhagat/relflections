@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
 It is an intermediate place which has the names of the files that are changed and that the user wants to commit. Not all
 files in a repository will be changed with each commit. The staging area records the files that are changed with that commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+You can do a git diff --staged to see the difference between what is in the staging area as compared to the last commit.
