@@ -23,6 +23,3 @@ YOu know that if something gets broken, you can revert to a previous commit, one
 
 Now that you have your workspace set up, what do you want to try using Git for?
 For the next project.
-
-What happens when you initialize a repository? Why do you need to do it?
-A .git folder is created. You need to intialize to create a new repository.
